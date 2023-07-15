@@ -20,6 +20,6 @@ jobs:
       - run: npx nx affected -t build --parallel=3
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.REPO_TOKEN }}
+          token: ${{ secrets.REPO_TOKEN }}
           folder: dist/harrinsonmb
 
