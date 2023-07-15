@@ -32,6 +32,7 @@
     "@angular/cli": "~16.1.0",
     "@angular/compiler-cli": "~16.1.0",
     "@angular/language-service": "~16.1.0",
+    "@builder.io/partytown": "^0.8.0",
     "@nx/cypress": "16.5.2",
     "@nx/eslint-plugin": "16.5.2",
     "@nx/jest": "16.5.2",
